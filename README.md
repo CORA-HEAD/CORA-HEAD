@@ -24,5 +24,5 @@ I'm a passionate Full Stack Developer.
 </p>
 
 ## 📫 Connect with Me
-- LinkedIn:www.linkedin.com/in/anmolfutela/
+- LinkedIn:linkedin.com/in/anmolfutela/
 - Email: anmolfutela94@gmail.com
